@@ -7,7 +7,6 @@
 [![](https://images.microbadger.com/badges/image/plugins/opsworks.svg)](https://microbadger.com/images/plugins/opsworks "Get your own image badge on microbadger.com")
 [![Go Doc](https://godoc.org/github.com/drone-plugins/drone-opsworks?status.svg)](http://godoc.org/github.com/drone-plugins/drone-opsworks)
 [![Go Report](https://goreportcard.com/badge/github.com/drone-plugins/drone-opsworks)](https://goreportcard.com/report/github.com/drone-plugins/drone-opsworks)
-[![](https://images.microbadger.com/badges/image/plugins/opsworks.svg)](https://microbadger.com/images/plugins/opsworks "Get your own image badge on microbadger.com")
 
 Drone plugin to deploy or update a project on AWS OpsWorks. For the usage information and a listing of the available options please take a look at [the docs](DOCS.md).
 
