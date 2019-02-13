@@ -10,7 +10,7 @@ require (
 	github.com/smartystreets/assertions v0.0.0-20190123100435-b6c0e53d7304 // indirect
 	github.com/smartystreets/goconvey v0.0.0-20181108003508-044398e4856c // indirect
 	github.com/stretchr/testify v1.3.0 // indirect
-	golang.org/x/net v0.0.0-20190206194346-65e2d4e15006 // indirect
+	golang.org/x/net v0.0.0-20190213065308-3a22650c66bd // indirect
 	golang.org/x/oauth2 v0.0.0-20190211080845-99b60b757ec1 // indirect
 	golang.org/x/sync v0.0.0-20181221193216-37e7f081c4d4 // indirect
 	google.golang.org/appengine v1.4.0 // indirect
